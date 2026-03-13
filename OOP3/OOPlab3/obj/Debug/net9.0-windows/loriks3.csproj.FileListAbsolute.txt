@@ -1,0 +1,32 @@
+C:\Users\Nikita\Desktop\visual studio\loriks3\loriks3\bin\Debug\net9.0-windows\loriks3.exe
+C:\Users\Nikita\Desktop\visual studio\loriks3\loriks3\bin\Debug\net9.0-windows\loriks3.deps.json
+C:\Users\Nikita\Desktop\visual studio\loriks3\loriks3\bin\Debug\net9.0-windows\loriks3.runtimeconfig.json
+C:\Users\Nikita\Desktop\visual studio\loriks3\loriks3\bin\Debug\net9.0-windows\loriks3.dll
+C:\Users\Nikita\Desktop\visual studio\loriks3\loriks3\bin\Debug\net9.0-windows\loriks3.pdb
+C:\Users\Nikita\Desktop\visual studio\loriks3\loriks3\obj\Debug\net9.0-windows\loriks3.Form1.resources
+C:\Users\Nikita\Desktop\visual studio\loriks3\loriks3\obj\Debug\net9.0-windows\loriks3.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\visual studio\loriks3\loriks3\obj\Debug\net9.0-windows\loriks3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\visual studio\loriks3\loriks3\obj\Debug\net9.0-windows\loriks3.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\visual studio\loriks3\loriks3\obj\Debug\net9.0-windows\loriks3.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\visual studio\loriks3\loriks3\obj\Debug\net9.0-windows\loriks3.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\visual studio\loriks3\loriks3\obj\Debug\net9.0-windows\loriks3.dll
+C:\Users\Nikita\Desktop\visual studio\loriks3\loriks3\obj\Debug\net9.0-windows\refint\loriks3.dll
+C:\Users\Nikita\Desktop\visual studio\loriks3\loriks3\obj\Debug\net9.0-windows\loriks3.pdb
+C:\Users\Nikita\Desktop\visual studio\loriks3\loriks3\obj\Debug\net9.0-windows\loriks3.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\visual studio\loriks3\loriks3\obj\Debug\net9.0-windows\ref\loriks3.dll
+C:\Users\kital\Desktop\Лабы\OOP\loriks3\loriks3\bin\Debug\net9.0-windows\loriks3.exe
+C:\Users\kital\Desktop\Лабы\OOP\loriks3\loriks3\bin\Debug\net9.0-windows\loriks3.deps.json
+C:\Users\kital\Desktop\Лабы\OOP\loriks3\loriks3\bin\Debug\net9.0-windows\loriks3.runtimeconfig.json
+C:\Users\kital\Desktop\Лабы\OOP\loriks3\loriks3\bin\Debug\net9.0-windows\loriks3.dll
+C:\Users\kital\Desktop\Лабы\OOP\loriks3\loriks3\bin\Debug\net9.0-windows\loriks3.pdb
+C:\Users\kital\Desktop\Лабы\OOP\loriks3\loriks3\obj\Debug\net9.0-windows\loriks3.Form1.resources
+C:\Users\kital\Desktop\Лабы\OOP\loriks3\loriks3\obj\Debug\net9.0-windows\loriks3.csproj.GenerateResource.cache
+C:\Users\kital\Desktop\Лабы\OOP\loriks3\loriks3\obj\Debug\net9.0-windows\loriks3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kital\Desktop\Лабы\OOP\loriks3\loriks3\obj\Debug\net9.0-windows\loriks3.AssemblyInfoInputs.cache
+C:\Users\kital\Desktop\Лабы\OOP\loriks3\loriks3\obj\Debug\net9.0-windows\loriks3.AssemblyInfo.cs
+C:\Users\kital\Desktop\Лабы\OOP\loriks3\loriks3\obj\Debug\net9.0-windows\loriks3.csproj.CoreCompileInputs.cache
+C:\Users\kital\Desktop\Лабы\OOP\loriks3\loriks3\obj\Debug\net9.0-windows\loriks3.dll
+C:\Users\kital\Desktop\Лабы\OOP\loriks3\loriks3\obj\Debug\net9.0-windows\refint\loriks3.dll
+C:\Users\kital\Desktop\Лабы\OOP\loriks3\loriks3\obj\Debug\net9.0-windows\loriks3.pdb
+C:\Users\kital\Desktop\Лабы\OOP\loriks3\loriks3\obj\Debug\net9.0-windows\loriks3.genruntimeconfig.cache
+C:\Users\kital\Desktop\Лабы\OOP\loriks3\loriks3\obj\Debug\net9.0-windows\ref\loriks3.dll
