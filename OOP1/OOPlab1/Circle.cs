@@ -1,39 +1,31 @@
-﻿// Circle.cs
+﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace OOPlab1
 {
-    /// <summary>
-    /// Circle shape - contains only data properties
-    /// </summary>
     class Circle : Shape
     {
-        public int Radius { get; set; }
-        public int X { get; set; }
-        public int Y { get; set; }
-
+        private int radius;
+        private Pen pen;
+        private int x;
+        private int y;
         public Circle(int radius, int x, int y, Pen pen)
         {
-            Radius = radius;
-            X = x;
-            Y = y;
-            Pen = pen;
+            this.pen = pen;
+            this.radius = radius;
+            this.y = y;
+            this.x = x;
         }
-
-        public override ShapeData GetShapeData()
+        public override void Draw(Graphics g)
         {
-            return new ShapeData
-            {
-                ShapeType = "Circle",
-                Pen = this.Pen,
-                Parameters = new Dictionary<string, object>
-                {
-                    { "X", X },
-                    { "Y", Y },
-                    { "Radius", Radius }
-                }
-            };
+            float new_x = x - radius;
+            float new_y = y - radius;
+            float diameter = 2 * radius;
+            g.DrawEllipse(pen, x, y, diameter, diameter);
         }
     }
 }

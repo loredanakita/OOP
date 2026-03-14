@@ -1,32 +1,25 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace OOPlab1
 {
-    /// <summary>
-    /// Collection of shapes with rendering capability
-    /// </summary>
     class ShapeList
     {
         private List<Shape> list = new List<Shape>();
-        private ShapeRenderer renderer = new ShapeRenderer();
-
         public void Add(Shape shape)
         {
             list.Add(shape);
         }
-
         public void Draw(Graphics g)
         {
-            foreach (var shape in list)
+            foreach (var item in list)
             {
-                renderer.DrawShape(g, shape);
+                item.Draw(g);
             }
-        }
-
-        public List<Shape> GetAllShapes()
-        {
-            return list;
         }
     }
 }

@@ -1,42 +1,36 @@
-﻿// Ellipse.cs
+﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace OOPlab1
 {
-    /// <summary>
-    /// Ellipse shape - contains only data properties, no drawing methods
-    /// </summary>
     class Ellipse : Shape
     {
-        public int Width { get; set; }
-        public int Height { get; set; }
-        public int X { get; set; }
-        public int Y { get; set; }
+        private int width;
+        private int height;
+        private Pen pen;
+        private int x;
+        private int y;
 
         public Ellipse(int width, int height, int x, int y, Pen pen)
         {
-            Width = width;
-            Height = height;
-            X = x;
-            Y = y;
-            Pen = pen;
+            this.width = width;
+            this.height = height;
+            this.pen = pen;
+            this.x = x;
+            this.y = y;
         }
 
-        public override ShapeData GetShapeData()
+        public override void Draw(Graphics g)
         {
-            return new ShapeData
-            {
-                ShapeType = "Ellipse",
-                Pen = this.Pen,
-                Parameters = new Dictionary<string, object>
-                {
-                    { "X", X },
-                    { "Y", Y },
-                    { "Width", Width },
-                    { "Height", Height }
-                }
-            };
+            float new_x = x - width / 2f;
+            float new_y = y - height / 2f;
+
+            g.DrawEllipse(pen, new_x, new_y, width, height);
         }
     }
+
 }

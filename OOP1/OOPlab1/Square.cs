@@ -1,32 +1,29 @@
-﻿// Square.cs
+﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.Linq;
+using System.Security.Cryptography.X509Certificates;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace OOPlab1
 {
-    /// <summary>
-    /// Square shape - special case of Rectangle
-    /// </summary>
-    class Square : Rectangle
+    class Square : Shape
     {
+        private int side;
+        private Pen pen;
+        private int x;
+        private int y;
         public Square(int side, int x, int y, Pen pen)
-            : base(side, side, x, y, pen)
         {
+            this.pen = pen;
+            this.side = side;
+            this.x = x;
+            this.y = y;
         }
-
-        public override ShapeData GetShapeData()
+        public override void Draw(Graphics g)
         {
-            return new ShapeData
-            {
-                ShapeType = "Square",
-                Pen = this.Pen,
-                Parameters = new Dictionary<string, object>
-                {
-                    { "X", X },
-                    { "Y", Y },
-                    { "Side", Width } // Width equals Height equals Side
-                }
-            };
+            g.DrawRectangle(pen, x, y, side, side);
         }
     }
 }

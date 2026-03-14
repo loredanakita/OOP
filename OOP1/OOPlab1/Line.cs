@@ -1,42 +1,31 @@
-﻿// Line.cs
+﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace OOPlab1
 {
-    /// <summary>
-    /// Line shape - contains only data properties
-    /// </summary>
     class Line : Shape
     {
-        public int X1 { get; set; }
-        public int Y1 { get; set; }
-        public int X2 { get; set; }
-        public int Y2 { get; set; }
+        private int x1, y1;
+        private int x2, y2;
+        private Pen pen;
 
         public Line(int x1, int y1, int x2, int y2, Pen pen)
         {
-            X1 = x1;
-            Y1 = y1;
-            X2 = x2;
-            Y2 = y2;
-            Pen = pen;
+            this.x1 = x1;
+            this.y1 = y1;
+            this.x2 = x2;
+            this.y2 = y2;
+            this.pen = pen;
         }
 
-        public override ShapeData GetShapeData()
+        public override void Draw(Graphics g)
         {
-            return new ShapeData
-            {
-                ShapeType = "Line",
-                Pen = this.Pen,
-                Parameters = new Dictionary<string, object>
-                {
-                    { "X1", X1 },
-                    { "Y1", Y1 },
-                    { "X2", X2 },
-                    { "Y2", Y2 }
-                }
-            };
+            g.DrawLine(pen, x1, y1, x2, y2);
         }
     }
+
 }

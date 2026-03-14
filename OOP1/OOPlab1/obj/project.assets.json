@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kital\\Desktop\\Лабы\\OOP\\OOPlab1\\OOPlab1\\OOPlab1.csproj",
+      "projectUniqueName": "C:\\Users\\kital\\Desktop\\Лабы\\OOPlabs\\OOP1\\OOPlab1\\OOPlab1.csproj",
       "projectName": "OOPlab1",
-      "projectPath": "C:\\Users\\kital\\Desktop\\Лабы\\OOP\\OOPlab1\\OOPlab1\\OOPlab1.csproj",
+      "projectPath": "C:\\Users\\kital\\Desktop\\Лабы\\OOPlabs\\OOP1\\OOPlab1\\OOPlab1.csproj",
       "packagesPath": "C:\\Users\\kital\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kital\\Desktop\\Лабы\\OOP\\OOPlab1\\OOPlab1\\obj\\",
+      "outputPath": "C:\\Users\\kital\\Desktop\\Лабы\\OOPlabs\\OOP1\\OOPlab1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
