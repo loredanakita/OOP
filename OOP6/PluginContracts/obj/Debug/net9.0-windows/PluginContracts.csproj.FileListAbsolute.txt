@@ -1,0 +1,33 @@
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\PluginContracts\bin\Debug\net9.0-windows\PluginContracts.deps.json
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\PluginContracts\bin\Debug\net9.0-windows\PluginContracts.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\PluginContracts\bin\Debug\net9.0-windows\PluginContracts.pdb
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\PluginContracts\obj\Debug\net9.0-windows\PluginContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\PluginContracts\obj\Debug\net9.0-windows\PluginContracts.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\PluginContracts\obj\Debug\net9.0-windows\PluginContracts.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\PluginContracts\obj\Debug\net9.0-windows\PluginContracts.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\PluginContracts\obj\Debug\net9.0-windows\PluginContracts.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\PluginContracts\obj\Debug\net9.0-windows\refint\PluginContracts.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\PluginContracts\obj\Debug\net9.0-windows\PluginContracts.pdb
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\PluginContracts\obj\Debug\net9.0-windows\ref\PluginContracts.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\PluginContracts\bin\Debug\net9.0-windows\PluginContracts.deps.json
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\PluginContracts\bin\Debug\net9.0-windows\PluginContracts.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\PluginContracts\bin\Debug\net9.0-windows\PluginContracts.pdb
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\PluginContracts\obj\Debug\net9.0-windows\PluginContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\PluginContracts\obj\Debug\net9.0-windows\PluginContracts.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\PluginContracts\obj\Debug\net9.0-windows\PluginContracts.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\PluginContracts\obj\Debug\net9.0-windows\PluginContracts.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\PluginContracts\obj\Debug\net9.0-windows\PluginContracts.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\PluginContracts\obj\Debug\net9.0-windows\refint\PluginContracts.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\PluginContracts\obj\Debug\net9.0-windows\PluginContracts.pdb
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\PluginContracts\obj\Debug\net9.0-windows\ref\PluginContracts.dll
+C:\Users\Nikita\Desktop\LORIK_OOP — копия\OOP6\PluginContracts\bin\Debug\net9.0-windows\PluginContracts.deps.json
+C:\Users\Nikita\Desktop\LORIK_OOP — копия\OOP6\PluginContracts\bin\Debug\net9.0-windows\PluginContracts.dll
+C:\Users\Nikita\Desktop\LORIK_OOP — копия\OOP6\PluginContracts\bin\Debug\net9.0-windows\PluginContracts.pdb
+C:\Users\Nikita\Desktop\LORIK_OOP — копия\OOP6\PluginContracts\obj\Debug\net9.0-windows\PluginContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\LORIK_OOP — копия\OOP6\PluginContracts\obj\Debug\net9.0-windows\PluginContracts.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\LORIK_OOP — копия\OOP6\PluginContracts\obj\Debug\net9.0-windows\PluginContracts.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\LORIK_OOP — копия\OOP6\PluginContracts\obj\Debug\net9.0-windows\PluginContracts.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\LORIK_OOP — копия\OOP6\PluginContracts\obj\Debug\net9.0-windows\PluginContracts.dll
+C:\Users\Nikita\Desktop\LORIK_OOP — копия\OOP6\PluginContracts\obj\Debug\net9.0-windows\refint\PluginContracts.dll
+C:\Users\Nikita\Desktop\LORIK_OOP — копия\OOP6\PluginContracts\obj\Debug\net9.0-windows\PluginContracts.pdb
+C:\Users\Nikita\Desktop\LORIK_OOP — копия\OOP6\PluginContracts\obj\Debug\net9.0-windows\ref\PluginContracts.dll

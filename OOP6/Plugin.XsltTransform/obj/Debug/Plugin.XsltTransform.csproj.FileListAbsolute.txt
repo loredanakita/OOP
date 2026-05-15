@@ -1,0 +1,11 @@
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\OOPlab3\bin\Debug\net9.0-windows\Plugins\Plugin.XsltTransform.deps.json
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\OOPlab3\bin\Debug\net9.0-windows\Plugins\Plugin.XsltTransform.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\OOPlab3\bin\Debug\net9.0-windows\Plugins\Plugin.XsltTransform.pdb
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\Plugin.XsltTransform\obj\Debug\Plugin.XsltTransform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\Plugin.XsltTransform\obj\Debug\Plugin.XsltTransform.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\Plugin.XsltTransform\obj\Debug\Plugin.XsltTransform.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\Plugin.XsltTransform\obj\Debug\Plugin.XsltTransform.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\Plugin.XsltTransform\obj\Debug\Plugin.XsltTransform.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\Plugin.XsltTransform\obj\Debug\refint\Plugin.XsltTransform.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\Plugin.XsltTransform\obj\Debug\Plugin.XsltTransform.pdb
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\Plugin.XsltTransform\obj\Debug\ref\Plugin.XsltTransform.dll

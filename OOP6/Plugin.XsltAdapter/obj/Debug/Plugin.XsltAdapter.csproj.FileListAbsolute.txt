@@ -1,0 +1,13 @@
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\OOPlab3\bin\Debug\net9.0-windows\Plugins\Plugin.XsltAdapter.deps.json
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\OOPlab3\bin\Debug\net9.0-windows\Plugins\Plugin.XsltAdapter.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\OOPlab3\bin\Debug\net9.0-windows\Plugins\Plugin.XsltAdapter.pdb
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\Plugin.XsltAdapter\obj\Debug\Plugin.XsltAdapter.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\Plugin.XsltAdapter\obj\Debug\Plugin.XsltAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\Plugin.XsltAdapter\obj\Debug\Plugin.XsltAdapter.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\Plugin.XsltAdapter\obj\Debug\Plugin.XsltAdapter.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\Plugin.XsltAdapter\obj\Debug\Plugin.XsltAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\Plugin.XsltAdapter\obj\Debug\Plugin.X.3C504AB0.Up2Date
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\Plugin.XsltAdapter\obj\Debug\Plugin.XsltAdapter.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\Plugin.XsltAdapter\obj\Debug\refint\Plugin.XsltAdapter.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\Plugin.XsltAdapter\obj\Debug\Plugin.XsltAdapter.pdb
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP6\Plugin.XsltAdapter\obj\Debug\ref\Plugin.XsltAdapter.dll

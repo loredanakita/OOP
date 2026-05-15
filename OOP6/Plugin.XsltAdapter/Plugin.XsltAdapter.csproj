@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <OutputPath>..\OOPlab3\bin\Debug\net9.0-windows\Plugins\</OutputPath>
+  </PropertyGroup>
+
+  <!-- Reference the host contracts (IStoragePlugin lives here) -->
+  <ItemGroup>
+    <ProjectReference Include="..\PluginContracts\PluginContracts.csproj" />
+    <!-- Reference the friend's plugin (adaptee) -->
+    <ProjectReference Include="..\Plugin.XsltTransform\Plugin.XsltTransform.csproj" />
+  </ItemGroup>
+</Project>
