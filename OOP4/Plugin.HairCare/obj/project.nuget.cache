@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cIfKG53QVvU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nikita\\Desktop\\LORIK_OOP — копия\\OOP4\\Plugin.HairCare\\Plugin.HairCare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikita\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.13\\microsoft.windowsdesktop.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.13\\microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.13\\microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
