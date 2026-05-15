@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="OOPlab5/OOP5.csproj" />
+  <Project Path="Plugin.HairCare/Plugin.HairCare.csproj" />
+  <Project Path="Plugin.Nail/Plugin.Nail.csproj" />
+  <Project Path="Plugin.Skincare/Plugin.Skincare.csproj" />
+  <Project Path="Plugin.XmlToJson/Plugin.XmlToJson.csproj" />
+  <Project Path="PluginContracts/PluginContracts.csproj" />
+</Solution>

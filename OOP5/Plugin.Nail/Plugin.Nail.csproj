@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <AssemblyName>Plugin.Nail</AssemblyName>
+    <RootNamespace>Plugin.Nail</RootNamespace>
+  </PropertyGroup>
+
+  <!-- Reference the shared contract (interface) library -->
+  <ItemGroup>
+    <ProjectReference Include="..\PluginContracts\PluginContracts.csproj" />
+  </ItemGroup>
+
+  <!--
+    Reference the MAIN project so that NailPolish can inherit CosmeticProduct.
+    We mark it as ExcludeAssets="runtime" so the main EXE DLL is NOT copied
+    into the plugin output folder (the host already has it).
+  -->
+</Project>

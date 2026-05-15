@@ -1,0 +1,13 @@
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\OOPlab3\bin\Debug\net9.0-windows\Plugins\Plugin.XmlToJson.deps.json
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\OOPlab3\bin\Debug\net9.0-windows\Plugins\Plugin.XmlToJson.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\OOPlab3\bin\Debug\net9.0-windows\Plugins\Plugin.XmlToJson.pdb
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.XmlToJson\obj\Debug\Plugin.XmlToJson.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.XmlToJson\obj\Debug\Plugin.XmlToJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.XmlToJson\obj\Debug\Plugin.XmlToJson.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.XmlToJson\obj\Debug\Plugin.XmlToJson.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.XmlToJson\obj\Debug\Plugin.XmlToJson.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.XmlToJson\obj\Debug\Plugin.X.4AE6E5A6.Up2Date
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.XmlToJson\obj\Debug\Plugin.XmlToJson.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.XmlToJson\obj\Debug\refint\Plugin.XmlToJson.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.XmlToJson\obj\Debug\Plugin.XmlToJson.pdb
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.XmlToJson\obj\Debug\ref\Plugin.XmlToJson.dll

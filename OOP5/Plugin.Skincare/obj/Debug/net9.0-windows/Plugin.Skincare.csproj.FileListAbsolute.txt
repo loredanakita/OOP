@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.Skincare\bin\Debug\net9.0-windows\Plugin.Skincare.deps.json
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.Skincare\bin\Debug\net9.0-windows\Plugin.Skincare.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.Skincare\bin\Debug\net9.0-windows\Plugin.Skincare.pdb
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.Skincare\bin\Debug\net9.0-windows\PluginContracts.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.Skincare\bin\Debug\net9.0-windows\PluginContracts.pdb
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.Skincare\obj\Debug\net9.0-windows\Plugin.Skincare.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.Skincare\obj\Debug\net9.0-windows\Plugin.Skincare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.Skincare\obj\Debug\net9.0-windows\Plugin.Skincare.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.Skincare\obj\Debug\net9.0-windows\Plugin.Skincare.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.Skincare\obj\Debug\net9.0-windows\Plugin.Skincare.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.Skincare\obj\Debug\net9.0-windows\Plugin.S.560F15AD.Up2Date
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.Skincare\obj\Debug\net9.0-windows\Plugin.Skincare.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.Skincare\obj\Debug\net9.0-windows\refint\Plugin.Skincare.dll
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.Skincare\obj\Debug\net9.0-windows\Plugin.Skincare.pdb
+C:\Users\Nikita\Desktop\LORIK_OOP\OOP5\Plugin.Skincare\obj\Debug\net9.0-windows\ref\Plugin.Skincare.dll
